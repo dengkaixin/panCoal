@@ -27,6 +27,39 @@ html {
 svg {
   color: #7795CC;
 }
+
+/* modal */
+.ant-modal-content {
+  background-color: transparent !important;
+  background-image: url('../../../src/business/mainPage/assets/bg-弹窗大.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  .ant-modal-header {
+    background-color: transparent;
+    position: relative;
+    top: -20px;
+    left: -24px;
+    .ant-modal-title {
+      height: 40rem;
+      line-height: 40rem;
+      padding-left: 20rem;  
+      background: url('../../../src//business/mainPage/assets/弹窗标题.png') no-repeat;
+      line-height: 40rem;
+    }
+  }
+  .ant-modal-body {
+  }
+  .ant-modal-footer {
+
+  }
+}
+/* table */
+.ant-table {
+  .ant-table-tbody>tr:nth-child(2n) {
+    background: #15305B;
+  }
+ }
+
 .mainPage {
   font-size: 14rem;
   height: 100vh;
