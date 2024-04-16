@@ -1,0 +1,58 @@
+.mainPage-content-right {
+  display: flex;
+  flex-direction: column;
+  .top-btn-group {
+    display: flex;
+    margin: 0 20rem 10rem 30rem;
+    justify-content: space-between;
+    .right-btn {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      img {
+        width: 72rem;
+        height: 64rem;
+      }
+    }
+  }
+  .main {
+    flex: 1;
+    overflow: hidden;
+    width: 299rem;
+    background: url('../../assets/右边工具栏.png') no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem 0rem 30rem;
+
+    form {
+      padding: 0 20rem;
+    }
+
+    hr {
+      border: 0.2px solid #7795CC;
+      width:100%;
+    }
+    .overflowY {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+   
+  }
+  .bottom-box {
+    padding-bottom: 20rem;
+    &>span {
+      display: inline-block;
+      width: 25%;
+      text-align: center;
+      margin-top: 20rem;
+      img {
+        cursor: pointer;
+        width: 40rem;
+        height: 40rem;
+      }
+    }
+  }
+}

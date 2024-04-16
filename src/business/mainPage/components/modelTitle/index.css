@@ -1,0 +1,21 @@
+.model-title{
+  height: 46rem;
+  font-size: 16rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  margin-top: 10rem;;
+  &.left {
+    justify-content: start;
+    background-image: url(../../assets/左边标题.png);
+  }
+  &.right {
+    justify-content: right;
+    background-image: url(../../assets/右边标题.png);
+  }
+  img {
+    width: 17rem;
+    height: 22rem;
+    margin: 0 12rem;
+  }
+}

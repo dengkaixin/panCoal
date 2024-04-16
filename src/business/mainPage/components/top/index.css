@@ -1,0 +1,45 @@
+/* 首页头部 */
+.mainPage-header {
+  height: 100rem;
+  background: url(../../assets/bg-大标题.png);
+  background-size: 100% 100%;
+  margin-bottom: 22rem;
+  position: relative;
+
+  .title {
+    background: url(../../assets/标题.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40rem;
+    width: 293rem;
+    margin: 0 auto;
+    margin-top: 16rem;
+    /*实现文字颜色从红到黄的线性渐变效果*/
+  }
+
+  .header-btn-group {
+    position: absolute;
+    bottom: -6rem;
+    width: calc(100% - 120rem);
+    margin-left: 70rem;
+    display: flex;
+    justify-content: space-between;
+
+    &>div {
+      display: flex;
+    }
+
+    .header-btn {
+      height: 57rem;
+      width: 249rem;
+      line-height: 50rem;
+      background: url(../../assets/按钮选中.png);
+      background-size: 100% 100%;
+      font-size: 20rem;
+      color: #90B8EF;
+      text-align: center;
+      font-weight: 400;
+      cursor: pointer;
+    }
+  }
+}

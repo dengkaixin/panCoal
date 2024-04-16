@@ -1,0 +1,30 @@
+.mainPage-content-center {
+  flex: 1;
+  .chart-wrapper {
+    height: calc(100% - 90rem);
+  }
+  .operation-btns {
+    height: 90rem;
+    width: 696rem;
+    background: url('../../assets/bg-视角工具.png');
+    background-size: contain;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    .tips {
+      position: absolute;
+      left: 110rem;
+    }
+    img {
+      width: 48rem;
+      height: 48rem;
+      margin-right: 23rem;
+      cursor: pointer;
+      &:last-child {
+        margin: 0
+      }
+    }
+  }
+}
