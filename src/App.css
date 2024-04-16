@@ -1,8 +1,4 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
 }
 
 .logo {
@@ -39,4 +35,25 @@
 
 .read-the-docs {
   color: #888;
+}
+
+
+.scrollContainer::-webkit-scrollbar {/*滚动条整体样式*/
+  width: 10rem;     /*高宽分别对应横竖滚动条的尺寸*/
+  height: 10rem;
+}
+.scrollContainer::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+  background: #576293;
+  border-radius: 4rem;
+  border: 2rem solid transparent;
+  background-clip: content-box;
+}
+.scrollContainer::-webkit-scrollbar-track {/*滚动条里面轨道*/
+  background: #021a35;
+  border-radius: 4rem;
+  border: none;
+  box-shadow: none;
+}
+.scrollContainer::-webkit-scrollbar-corner {
+  background-color: #021a35;
 }
