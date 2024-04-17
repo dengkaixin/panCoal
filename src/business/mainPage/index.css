@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
 html {
   /* font-size: 1px; */
   font-size: calc(100vw / 1920);
@@ -10,6 +18,12 @@ html {
 }
 .ant-slider-handle::after {
   background-color: #003D75;
+}
+.ant-form {
+  color: #fff;
+}
+input {
+  color: #fff !important
 }
 .ant-form-item {
   margin-bottom: 10px;
@@ -46,11 +60,6 @@ svg {
       background: url('../../../src//business/mainPage/assets/弹窗标题.png') no-repeat;
       line-height: 40rem;
     }
-  }
-  .ant-modal-body {
-  }
-  .ant-modal-footer {
-
   }
 }
 /* table */

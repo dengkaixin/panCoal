@@ -1,0 +1,254 @@
+{
+  "id": "4259654",
+  "name": "系统用",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1075",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "722466",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "705684",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "10496865",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10902310",
+      "name": "设置",
+      "font_class": "set",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11184960",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "22575769",
+      "name": "隐藏",
+      "font_class": "yincang",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "27564905",
+      "name": "煤",
+      "font_class": "mei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "22149489",
+      "name": "视频监控",
+      "font_class": "shipinjiankong2",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "37541291",
+      "name": "闹钟-F",
+      "font_class": "naozhong-F",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12659620",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1190548",
+      "name": "区域管理",
+      "font_class": "quyuguanli",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "1319971",
+      "name": "视频监控",
+      "font_class": "shipinjiankong",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4274477",
+      "name": "视频监控",
+      "font_class": "shipinjiankong1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "6677524",
+      "name": "面积测量",
+      "font_class": "mianjiceliang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6941969",
+      "name": "库存盘点",
+      "font_class": "kucunpandian-",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "9626972",
+      "name": "移除",
+      "font_class": "yichu",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "10773237",
+      "name": "Scout-Trooper",
+      "font_class": "Scout-Trooper",
+      "unicode": "edf9",
+      "unicode_decimal": 60921
+    },
+    {
+      "icon_id": "11121517",
+      "name": "可视区域",
+      "font_class": "keshiquyu",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "11493854",
+      "name": "移除",
+      "font_class": "yichu1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "13638737",
+      "name": "面积",
+      "font_class": "mianji",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "14930328",
+      "name": "Minus、Remove 减去移除1 (4)",
+      "font_class": "MinusRemovejianquyichu14",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "16809784",
+      "name": "os-icon-ruler-PPM",
+      "font_class": "os-icon-ruler-PPM",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18796360",
+      "name": "区域管理",
+      "font_class": "quyuguanli1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "19262801",
+      "name": "温度传感器",
+      "font_class": "wenduchuanganqi",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "21218960",
+      "name": "4",
+      "font_class": "4",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "22429885",
+      "name": "cource-cate-10",
+      "font_class": "cource-cate-10",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "22978042",
+      "name": "长度",
+      "font_class": "changdu",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "31120537",
+      "name": "1_角度测量",
+      "font_class": "a-1_jiaoduceliang",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "31819656",
+      "name": "高度-线",
+      "font_class": "gaodu-xian",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "32538014",
+      "name": "定时启动",
+      "font_class": "dingshiqidong",
+      "unicode": "e9cc",
+      "unicode_decimal": 59852
+    },
+    {
+      "icon_id": "34205175",
+      "name": "角度",
+      "font_class": "jiaodu",
+      "unicode": "e98f",
+      "unicode_decimal": 59791
+    },
+    {
+      "icon_id": "35108874",
+      "name": "移除 (3)",
+      "font_class": "a-yichu3",
+      "unicode": "ea64",
+      "unicode_decimal": 60004
+    },
+    {
+      "icon_id": "36284805",
+      "name": "红外测温",
+      "font_class": "hongwaicewen",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "36639857",
+      "name": "区域管理",
+      "font_class": "quyuguanli2",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    }
+  ]
+}

@@ -3,7 +3,7 @@
  * @Descripttion: dengkaixin的代码
  * @Date: 2024-04-12 16:10:12
  * @LastEditors: dengkaixin
- * @LastEditTime: 2024-04-13 18:48:55
+ * @LastEditTime: 2024-04-17 16:58:07
  */
 import { useState } from 'react'
 import { Tree, Slider, Form, Select } from "antd";
@@ -79,7 +79,7 @@ function Changejing() {
           <Slider defaultValue={30} />
         </div>
         <Form.Item label={'点类型设定'}>
-          <Select />
+          <Select value={11}/>
         </Form.Item>
         <Form.Item label={'点形状'}>
           <Select />
